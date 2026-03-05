@@ -116,8 +116,7 @@ Use this payload to test the Lambda function:
 5. Name the role: `PollyTranslationRole`
 6. Click **Create role**
 
-> 📸 See `<img width="624" height="373" alt="image" src="https://github.com/user-attachments/assets/2ddf677e-06d5-4fe0-b852-cc2f23ae0d27" />
-` for reference.
+> 📸 See `screenshots/iam-role-setup.png` for reference.
 
 ---
 
@@ -134,8 +133,7 @@ Use this payload to test the Lambda function:
 5. In the code editor, paste the contents of `lambda/index.mjs`
 6. Click **Deploy**
 
-> 📸 See `<img width="763" height="378" alt="{066AA8E1-16DF-421D-9450-5E82AAB0C460}" src="https://github.com/user-attachments/assets/5f9333dc-8887-4bc5-a01e-4d27e7809a10" />
-` for reference.
+> 📸 See `screenshots/lambda-function-config.png` for reference.
 
 ---
 
